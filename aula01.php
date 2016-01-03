@@ -15,3 +15,5 @@ $n2=trim(fgets(STDIN));
 $soma=$n1+$n2;
 
 print "\nA soma dos números informados é: " .$soma;
+
+?>
