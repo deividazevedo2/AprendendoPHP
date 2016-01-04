@@ -17,3 +17,5 @@ $soma=$n1+$n2;
 print "\nA soma dos números informados é: " .$soma;
 
 ?>
+
+<!-- Preciso ver como rodar um script php no eclipse. nao ta rodando ainda -->
